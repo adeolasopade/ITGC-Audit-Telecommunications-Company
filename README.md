@@ -33,4 +33,4 @@ The audit revealed a mixed control environment: user provisioning, backup comple
 
 ## Linked Project Documents
 
-ITGC Audit – (Telecommunications)(https://drive.google.com/drive/folders/1UgjnSuxPiqI6DkHrdp2rbvMe2di0buD7?usp=sharing)
+[ITGC Audit – (Telecommunications)](https://drive.google.com/drive/folders/1UgjnSuxPiqI6DkHrdp2rbvMe2di0buD7?usp=sharing)
